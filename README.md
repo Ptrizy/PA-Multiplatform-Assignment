@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Screenshot Projects
-[1](assets/ss1.png)
+[Gambar Pertama](assets/ss1.png)
 
 ## Getting Started
 
